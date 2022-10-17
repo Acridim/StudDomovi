@@ -5,8 +5,6 @@ Aplikacija je namenjena dijakom, da lažje najdejo študentski dom, ki je blizu 
 - Prikaz lokacij študentskih domovov
 - Prikaz sosednih faksov
 - Informacije glede študentskeg doma
-- Toggle Alpha channel randomization
-- Save image as PNG, BMP, JPEG
 
 ## 👤 Avtor
 Lovro Breznik, študent 2. letnika FERI smeri RIT
